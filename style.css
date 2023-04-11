@@ -1,3 +1,9 @@
 body{
     background-color:aliceblue;
 }
+
+.cabeçalho{
+    background-color: #0212A5;
+    display: flex;
+    justify-content: space-around;
+}
