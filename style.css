@@ -17,7 +17,7 @@ body{
     width: 80%;
     padding: 12px
 }
-.lista-cabecalho {
+.lista-cabecalho-item {
     display:inline-block;
     padding: 30px;
     color: #ffffff;
