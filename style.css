@@ -17,7 +17,7 @@ body{
     width: 80%;
     padding: 12px
 }
-.lista-cabecalho-item {
+.lista-cabeçalho-item {
     display:inline-block;
     padding: 30px;
     color: #ffffff;
@@ -31,3 +31,4 @@ body{
     align-items: center;
     padding: 24px 0;
 }
+
