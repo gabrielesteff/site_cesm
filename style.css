@@ -31,4 +31,13 @@ body{
     align-items: center;
     padding: 24px 0;
 }
+texto-lista {
 
+    display: inline-block;
+    list-style-type: none;
+}
+
+.escola-imagem {
+    width: 100%;
+    margin: 10px;
+}
