@@ -48,5 +48,8 @@ texto-lista {
     margin: 20px;
 }
 .equipe {
-    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: black;
 }
