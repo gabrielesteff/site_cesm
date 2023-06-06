@@ -49,7 +49,7 @@ texto-lista {
 }
 
 .quem-somos {
-    background-color: rgba(red, green, blue, alpha);
+    background-color: rgba(red, rgb(0, 141, 0), blue, alpha);
 }
 .equipe {
     text-align: center;
@@ -67,4 +67,13 @@ texto-lista {
     display: contents;
     list-style-type: none;
     text-align: center;
+}
+.profissional_none {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 10px;
+}
+.icones{
+    width: 30px;
 }
