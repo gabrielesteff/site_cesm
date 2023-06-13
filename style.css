@@ -77,3 +77,22 @@ texto-lista {
 .icones{
     width: 30px;
 }
+footer{
+    text-align: center;
+    background-color: rgb(red, green, blue);
+    padding: 10px 0;
+}
+.siga-nos{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 0 0;
+}
+.imagem-rodape{
+    width: 10%;
+    padding: 5px 0 0;
+}
+.contato{
+    color: aliceblue;
+    font-size: 25px;
+    padding: 5px 0 0;
+}
