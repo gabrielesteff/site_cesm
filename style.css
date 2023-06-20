@@ -59,6 +59,7 @@ texto-lista {
 }
 
 .equipe.escola{
+
     display: flex ;
     padding: 50px;
     justify-content: space-evenly;
