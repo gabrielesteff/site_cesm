@@ -48,14 +48,15 @@ texto-lista {
     margin: 20px;
 }
 
-.quem-somos {
-    background-color: rgba(red, rgb(0, 141, 0), blue, alpha);
-}
 .equipe {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 35px;
     color: black;
+}
+
+.quem-somos {
+    background-color: rgba(red, rgb(0, 141, 0), blue, alpha);
 }
 
 .equipe.escola{
